@@ -1,6 +1,6 @@
 - 🙋🏼‍♀️ Hi, I’m @cwcodes
-- 🎇 I’m interested in autobiographies, cats, cooking and baking
-- 💪🏼 I’m currently learning how to code and knit
+- 🎇 I’m interested in autobiographies, cats, cooking good food and sewing
+- 💪🏼 I’m currently learning HTML, CSS & JavaScript
 - 📡 You can find me on twitter as @barefootatnight
 
 <!---
