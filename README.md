@@ -1,7 +1,12 @@
-♦ Hi, I’m @cwcodes
-♦ I’m interested in autobiographies, cats, cooking good food and sewing
-♦ I’m currently learning HTML, CSS & JavaScript AND Italian
-♦ You can find me on twitter as @barefootatnight
+♦ hello, you found your way to my github profile - congratulations!
+
+♦ i’m @cwcodes from germany
+
+♦ i’m passionate about autobiographies, cats, cooking good food and sewing
+
+♦ i’m currently learning html, css & javascript AND italian
+
+♦ you can find me on twitter as @barefootatnight
 
 <!---
 cwcodes/cwcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
